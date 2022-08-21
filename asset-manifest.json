@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kendo-react-grid/static/css/main.a26fb212.css",
+    "main.js": "/kendo-react-grid/static/js/main.4290ec25.js",
+    "static/js/787.2a93b843.chunk.js": "/kendo-react-grid/static/js/787.2a93b843.chunk.js",
+    "index.html": "/kendo-react-grid/index.html",
+    "main.a26fb212.css.map": "/kendo-react-grid/static/css/main.a26fb212.css.map",
+    "main.4290ec25.js.map": "/kendo-react-grid/static/js/main.4290ec25.js.map",
+    "787.2a93b843.chunk.js.map": "/kendo-react-grid/static/js/787.2a93b843.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a26fb212.css",
+    "static/js/main.4290ec25.js"
+  ]
+}
